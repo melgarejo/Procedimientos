@@ -1,0 +1,10 @@
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbprojResolveAssemblyReference.cache
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.Cache
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.xml
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.xml
+d:\usuarios\documents\visual studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
